@@ -1,2 +1,2 @@
 # n8n
-Collection of n8n applications.
+Collection of n8n workflows.
